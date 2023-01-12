@@ -1,0 +1,12 @@
+data/Linea1-Consumos.txt
+data/Linea1-Sesiones.txt
+data/Linea1-Usuarios.txt
+data/Linea1-Ventas.txt
+**/data/**
+/data/**
+dataProd/data_Original_.csv
+dataProd/dataPCA.csv
+dataProd/dataTSNE.csv
+dataProd/dataUMAP.csv
+**/dataProd/**
+/dataProd/**
