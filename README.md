@@ -1,4 +1,4 @@
-![](https://github.com/Vic16/TFM_PurchasePrediction/tree/master/images/UOC.jpg)
+![u](https://github.com/Vic16/TFM_PurchasePrediction/tree/master/images/UOC.jpg)
 
 # Predicción de compra en el entorno ecommerce:
 ## Comparación de modelos, variables y procedimientos en conjuntos de datos desbalanceados
