@@ -1,3 +1,5 @@
+![](images/UOC.jpg)
+
 # Predicción de compra en el entorno ecommerce:
 ## Comparación de modelos, variables y procedimientos en conjuntos de datos desbalanceados
 
